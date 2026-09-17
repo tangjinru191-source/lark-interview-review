@@ -1,0 +1,10 @@
+*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/agents/
+!/agents/openai.yaml
+!/references/
+!/references/review-rubric.md
+!/scripts/
+!/scripts/transcribe_interview.py
