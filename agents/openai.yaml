@@ -1,0 +1,7 @@
+interface:
+  display_name: "飞书面试录音复盘"
+  short_description: "自动上传飞书妙记并转写面试录音，输出逐字稿、逐题评分和推荐回答"
+  default_prompt: "使用 $lark-interview-review 上传并转写这段面试录音，输出原始逐字稿和逐题复盘。"
+
+policy:
+  allow_implicit_invocation: true
